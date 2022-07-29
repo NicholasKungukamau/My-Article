@@ -5,8 +5,8 @@
 Nicholas Kung'u Kamau
 
 ## Description
-This Application allow user to select hshare their toughts by writing down their favorite articles which they can customize as they wish. Apart from that one can be able to like different article and customize size of text by adjusting pixel accordingly and also change color of those articles.
-With last part there is asection to display random articles for users.
+This Application allow user to share their thoughts by writing down their favorite articles which they can customize as they wish. Apart from that one can be able to like different article and customize size of text by adjusting pixel accordingly and also change color of those articles.
+With last part there is a section to display random articles for users.
 
 
 ## Pre-requisite
